@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="https://i.ibb.co/DVF4tNW/image.png" alt="Krypt">
+</p>
 
-# Krypt - Web 3.0 Blockchain Application  
-![Krypt](https://i.ibb.co/DVF4tNW/image.png)
+<h1 align="center">Krypt - Web 3.0 Blockchain Application</h1>
 
 ## Introduction
 
